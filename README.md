@@ -1,13 +1,13 @@
-# Antônio Vinicius 🖖
+# Leonardo Holanda 🦖🌈
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/antoniovini)](https://github.com/Leonhcp)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniovini/)](https://www.linkedin.com/in/leonhcp/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antoniovinicius1801@gmail.com)](mailto:leonardohcp@gmail.com)
 
 
-Meu nome é Vinicius, sou estudante de Ciência e Tecnologia e apaixonado por desenvolvimento.
+Olá, bem vindo! Sou Leonardo e amo programar e estudar sobre banco de dados e produção de documentação de aplicações.
 
-- 📌 Gerente de desenvolvimento backend da **Lorbytech**.
+- 📄 Gerente de desenvolvimento backend da **Lorbytech**.
 - 📒 Techs: Node.js, JavaScript, MySQL, MongoDB, Express entre outras.
 
 ---
