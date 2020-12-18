@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antoniovinicius1801@gmail.com)](mailto:leonardohcp@gmail.com)
 
 
-Olá, bem vindo! Sou Leonardo e amo programar e estudar sobre banco de dados e produção de documentação de aplicações.
+Olá, bem vindo! Sou Leonardo, amo programar, estudar sobre banco de dados e produção de documentação de aplicações.
 
 - 📄 Gerente de desenvolvimento backend da **Lorbytech**.
 - 📒 Techs: Node.js, JavaScript, MySQL, MongoDB, Express entre outras.
