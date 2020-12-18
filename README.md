@@ -23,6 +23,7 @@ Olá, bem vindo! Sou Leonardo, amo programar, estudar sobre banco de dados e pro
   ![MySQL](https://img.shields.io/badge/-MySQL-EE1717?style=flat-square&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-F6C600?style=flat-square&logo=mongodb&logoColor=white)
   ![Postman](https://img.shields.io/badge/-Postman-F6C600?style=flat-square&logo=postman&logoColor=white)
+  ![Express](https://img.shields.io/badge/-Express-F6C600?style=flat-square&logo=expresse&logoColor=white)
 </details>
 
 
