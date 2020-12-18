@@ -7,7 +7,7 @@
 
 Olá, bem vindo! Sou Leonardo, amo programar, estudar sobre banco de dados e produção de documentação de aplicações.
 
-- 📄 Gerente de desenvolvimento backend da **Lorbytech**.
+- 📄 Gerente de equipe de desenvolvimento backend da **Lorbytech**.
 - 📒 Techs: Node.js, JavaScript, MySQL, MongoDB, Express entre outras.
 
 ---
