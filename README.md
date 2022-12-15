@@ -1,14 +1,12 @@
 # Leonardo Holanda 🦖
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/antoniovini)](https://github.com/Leonhcp)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniovini/)](https://www.linkedin.com/in/leonhcp/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antoniovinicius1801@gmail.com)](mailto:leonardohcp@gmail.com)
+Contatos:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Leonhcp)](https://github.com/Leonhcp)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Leonhcp/)](https://www.linkedin.com/in/leonhcp/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leoanrdohcp@gmail.com)](mailto:leonardohcp@gmail.com)
 
 
-Olá, bem vindo! Sou Leonardo, amo programar, estudar sobre banco de dados e produção de documentação de aplicações.
-
-- 📄 Gerente de equipe de desenvolvimento backend da **Lorbytech**.
-- 📒 Techs: Node.js, JavaScript, MySQL, MongoDB, Express entre outras.
+Olá, bem vindo! Sou Leonardo, desenvolvedor web e mobile. Já trabalhei em muitos projetos, principalmente em nodejs, mas sou pau pra toda obra. Nada que não possa ser estudado!
 
 ---
 
