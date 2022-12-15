@@ -8,6 +8,8 @@ Contatos:
 
 Olá, bem vindo! Sou Leonardo, desenvolvedor web e mobile. Já trabalhei em muitos projetos, principalmente em nodejs, mas sou pau pra toda obra. Nada que não possa ser estudado!
 
+![Alt Text](https://media.tenor.com/9IsrqCRzmNwAAAAi/tyrannosaurus-dinosaur.gif)
+
 ---
 
 ## Techs
