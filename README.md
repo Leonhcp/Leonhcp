@@ -24,6 +24,11 @@ Olá, bem vindo! Sou Leonardo, amo programar, estudar sobre banco de dados e pro
   ![MongoDB](https://img.shields.io/badge/-MongoDB-F6C600?style=flat-square&logo=mongodb&logoColor=white)
   ![Postman](https://img.shields.io/badge/-Postman-F6C600?style=flat-square&logo=postman&logoColor=white)
   ![Express](https://img.shields.io/badge/-Express-F6C600?style=flat-square&logo=expresse&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 </details>
 
 
